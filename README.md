@@ -17,4 +17,6 @@ One of the major challenges I encountered was dealing with the highly imbalanced
 
 Future Directions
 Moving forward, I aim to improve the model's accuracy by experimenting with advanced algorithms and ensemble methods. I also plan to implement real-time transaction monitoring to enhance fraud detection capabilities.
+
+
 Data Set link: https://drive.google.com/file/d/1RZ8yXuFFMqfrwfXXdu2mY8QRiePV_pI9/view?usp=sharing
