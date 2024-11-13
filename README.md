@@ -1,4 +1,4 @@
-# Detecting-Credit-Card-Fraud-Transactions
+# Fraud Detection System
 Credit card fraud is a pressing issue that affects millions of people worldwide, leading to significant financial losses for individuals and institutions alike. Inspired by the challenge of mitigating fraud through technology, I embarked on this project to develop a machine learning model capable of detecting fraudulent transactions.
 What I Learned
 Throughout this project, I gained extensive knowledge in data preprocessing, feature engineering, and model evaluation. I explored various machine learning algorithms, focusing on selecting the most effective one for fraud detection. Understanding the nuances of data imbalance was crucial, leading me to implement techniques like oversampling and undersampling to enhance model performance.
